@@ -37,3 +37,9 @@ height: 50px;
 width: 180px;
 font-size: larger;
 }
+.p{ margin: 1500px 300px ;
+display: flex;}
+ .b{ margin: 100px -300px;
+font-size: larger;
+ text-align:left;}
+.m{margin: -690px 350px;}
