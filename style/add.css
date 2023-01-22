@@ -43,3 +43,35 @@ display: flex;}
 font-size: larger;
  text-align:left;}
 .m{margin: -690px 350px;}
+.a{display: flex;
+    margin: -1000px 200px ;}
+ .d{ list-style: none;}
+ .n{border: rgb(11, 237, 22);
+word-wrap: break-word;}
+.button{background-color: coral;
+color: aliceblue;
+margin: 500px -800px;
+height: 200px;
+width: 400px;
+font-weight: 700;
+font-size: 65px;
+line-height: 70px;}
+.o{margin: 500px 900px;
+/* height: 1000px;
+width: 600px;   */ } 
+.k{margin: -500px 600px;}
+.j{ text-align: center;}
+.c{margin: 90px 300px;}
+.h{background: darkorange;
+    
+    position: absolute;
+    
+    width: 1920px;
+
+    height: 100px;
+margin: 500px 400px;
+text-align: center;
+font-weight: bold;}
+
+
+
